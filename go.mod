@@ -1,4 +1,4 @@
-module github.com/bnb-chain/ics23
+module github.com/kpyaoqi/ics23
 
 go 1.14
 
